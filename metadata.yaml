@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '57076'
     url: http://www.gutenberg.org/2009/agents/57076
     wikipedia: https://fi.wikipedia.org/wiki/Alexander_Ramstedt
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Listner, Karl
@@ -31,6 +34,8 @@ creator:
     - https://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
     - https://en.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73451#Siirtolaisen-elaman-vaiheet-Haaksirikon-jalkeen-b-Kaksi-kertomusta-Austraaliasta
 gutenberg_issued: '2024-04-23'
 gutenberg_type: Text
 identifiers:
